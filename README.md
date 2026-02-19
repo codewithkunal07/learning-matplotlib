@@ -1,2 +1,2 @@
 # learning-matplotlib
-learning matplotlib kourney 
+learning matplotlib kourney.
